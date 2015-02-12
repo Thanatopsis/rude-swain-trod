@@ -1,10 +1,10 @@
 ## rude-swain-trod ##
 
-###*Thou shalt lie down With patriarchs of the infant world*
+*Thou shalt lie down With patriarchs of the infant world*
 
 ##Thanatopsis##
 
- #### William Cullen Bryant####
+   - *William Cullen Bryant*
  
   TO HIM who in the love of Nature holds	 
 Communion with her visible forms, she speaks	 
