@@ -1,6 +1,6 @@
 ## rude-swain-trod
 
-###*Thou shalt lie down With patriarchs of the infant world
+*###Thou shalt lie down With patriarchs of the infant world*
 
  ###Thanatopsis
  #### William Cullen Bryant
@@ -78,7 +78,7 @@ The speechless babe, and the gray-headed man—	  70
 Shall one by one be gathered to thy side	 
 By those, who in their turn shall follow them.	 
   
-**  So live, that when thy summons comes to join	 
+**So live, that when thy summons comes to join	 
 The innumerable caravan which moves	 
 To that mysterious realm, where each shall take	  75
 His chamber in the silent halls of death,	 
@@ -86,4 +86,4 @@ Thou go not, like the quarry-slave at night,
 Scourged to his dungeon, but, sustained and soothed	 
 By an unfaltering trust, approach thy grave	 
 Like one who wraps the drapery of his couch	  80
-About him, and lies down to pleasant dreams**
+About him, and lies down to pleasant dreams.**
